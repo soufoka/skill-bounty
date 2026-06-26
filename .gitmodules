@@ -1,0 +1,3 @@
+[submodule "community-moderation-skill"]
+	path = community-moderation-skill
+	url = https://github.com/soufoka/community-moderation-skill
